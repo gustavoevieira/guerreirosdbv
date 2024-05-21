@@ -77,16 +77,16 @@ footer {
 }
 
 .footer-section h1, .footer-section h2 {
-    color: #ffccff; 
+    color: #fca505; 
 }
 
 .footer-section p, .footer-section ul, .footer-section a {
-    color: #ddd;
+    color: #fca505;
 }
 
 .footer-section a {
     text-decoration: none;
-    color: #ffccff;
+    color: #fca505;
 }
 
 .footer-section a:hover {
